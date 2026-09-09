@@ -1,0 +1,107 @@
+FOODIE AI - RESTAURANT KNOWLEDGE BASE
+
+RESTAURANT INFORMATION
+
+Restaurant Name: Foodie AI Restaurant
+
+Opening Hours:
+Monday to Sunday: 10:00 AM to 10:00 PM
+
+FOOD MENU
+
+STARTERS:
+Veg Spring Roll - ₹120
+Paneer 65 - ₹150
+French Fries - ₹100
+Gobi 65 - ₹130
+
+SOUTH INDIAN:
+Idli - ₹50
+Plain Dosa - ₹70
+Masala Dosa - ₹100
+Pongal - ₹80
+Vada - ₹40
+
+NORTH INDIAN:
+Paneer Butter Masala - ₹180
+Chole Bhature - ₹150
+Aloo Paratha - ₹120
+Veg Fried Rice - ₹150
+
+BIRYANI:
+Veg Biryani - ₹150
+Chicken Biryani - ₹220
+Mutton Biryani - ₹280
+
+PIZZA:
+Margherita Pizza - ₹180
+Cheese Pizza - ₹220
+Paneer Pizza - ₹250
+Chicken Pizza - ₹280
+
+DESSERTS:
+Ice Cream - ₹80
+Gulab Jamun - ₹70
+Chocolate Cake - ₹120
+Fruit Salad - ₹100
+
+DRINKS:
+Fresh Lime Juice - ₹60
+Mango Juice - ₹80
+Cold Coffee - ₹100
+Lemon Tea - ₹50
+Milkshake - ₹120
+
+VEGETARIAN FOOD:
+
+Idli, Dosa, Masala Dosa, Pongal, Vada,
+Veg Spring Roll, Paneer 65, French Fries,
+Gobi 65, Paneer Butter Masala, Chole Bhature,
+Aloo Paratha, Veg Fried Rice, Veg Biryani,
+Margherita Pizza, Cheese Pizza, Paneer Pizza,
+Ice Cream, Gulab Jamun, Chocolate Cake,
+Fruit Salad, Fresh Lime Juice, Mango Juice,
+Cold Coffee, Lemon Tea and Milkshake.
+
+NON-VEGETARIAN FOOD:
+
+Chicken Biryani, Mutton Biryani and Chicken Pizza.
+
+SPICY FOOD:
+
+Paneer 65, Gobi 65, Chicken Biryani and Mutton Biryani
+can be prepared spicy.
+
+POPULAR FOODS:
+
+Masala Dosa
+Chicken Biryani
+Paneer Pizza
+Paneer Butter Masala
+Chocolate Cake
+
+FOODS UNDER ₹100:
+
+Vada - ₹40
+Idli - ₹50
+Lemon Tea - ₹50
+Fresh Lime Juice - ₹60
+Plain Dosa - ₹70
+Gulab Jamun - ₹70
+Pongal - ₹80
+Mango Juice - ₹80
+Ice Cream - ₹80
+French Fries - ₹100
+Masala Dosa - ₹100
+Fruit Salad - ₹100
+
+SERVICES:
+
+Dine-in is available.
+Takeaway is available.
+Food delivery is available.
+
+CHATBOT RULE:
+
+Answer the user's question using the restaurant knowledge provided above.
+If the requested information is not available, clearly say that the information is not available in the restaurant knowledge base.
